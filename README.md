@@ -6,7 +6,7 @@
 <br><br>
 
 <div align="center">
-  <h2>🔨Tech Stack</h2>
+  <h1>🔨Tech Stack</h1>
 </div>
 
 <br>
